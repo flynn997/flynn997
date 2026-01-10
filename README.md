@@ -1,5 +1,5 @@
 # Hi 👋, I'm Flynn
-
+<img src="https://media.tenor.com/kDR77uhrK14/kirito-sword-art-online.gif" align="right" width="250" />
 ### Aspiring Full Stack Developer
 
 - 🌱 I'm currently learning **Java Script **
