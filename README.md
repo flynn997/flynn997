@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" width="100" />
+<img src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" width="200" />
 
 # Hi, I'm Nico Flynn
 *Aspiring Full Stack Developer | AI Enthusiast | Void's Human*
