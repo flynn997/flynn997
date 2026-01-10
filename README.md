@@ -8,9 +8,7 @@
 
 - ⚡ Fun fact **im kinda weird **
 
-- <p align="center">
-  <img src="https://media.tenor.com/kDR77uhrK14/kirito-sword-art-online.gif" width="400" />
-  </p>
+- <div class="tenor-gif-embed" data-postid="8795168937971145798" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/maudy-sukaiga-maha5-head-pat-vtuber-gif-8795168937971145798">Maudy Sukaiga Maha5 Sticker</a>from <a href="https://tenor.com/search/maudy+sukaiga-stickers">Maudy Sukaiga Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
