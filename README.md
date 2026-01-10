@@ -5,7 +5,7 @@
 # Hi, I'm Nico Flynn
 *Aspiring Full Stack Developer | AI Enthusiast | Void's Human*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Building+AI+Bots;Chat+Sites;Learning+Full+Stack+Dev;Python+%2B+JavaScript+Vibes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Building+AI+Bots;Social+Websites;Learning+Full+Stack+Dev;Python+%2B+JavaScript+Vibes" alt="Typing SVG" />
 
 ---
 
