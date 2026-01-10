@@ -1,20 +1,32 @@
-# Hi 👋, I'm Flynn
+<div align="center">
+  
+<img src="https://media.tenor.com/kDR77uhrK14/kirito-sword-art-online.gif" width="500" />
 
-### Aspiring Full Stack Developer
+# ⚡ Hi, I'm Nico Flynn ⚡
+*Aspiring Full Stack Developer | AI Enthusiast | Void's Human*
 
-- 🌱 I'm currently learning **Java Script **
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Building+AI+VTube+Bots;Learning+Full+Stack+Dev;Python+%2B+JavaScript+Vibes" alt="Typing SVG" />
 
-- 💬 Ask me about **HTML, CSS**
+---
 
-- ⚡ Fun fact **im kinda weird **
-
-- <div class="tenor-gif-embed" data-postid="8795168937971145798" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/maudy-sukaiga-maha5-head-pat-vtuber-gif-8795168937971145798">Maudy Sukaiga Maha5 Sticker</a>from <a href="https://tenor.com/search/maudy+sukaiga-stickers">Maudy Sukaiga Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/flynn997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="flynn997" height="30" width="40" /></a>
+### 🛠️ My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a></p> <img url="https://tenor.com/kDR77uhrK14.gif" width="300" align="right" />
+---
 
+### 🚀 What I'm working on
+- **AI Anime Chatbot:** Integrating LLMs with VTube Studio for real-time expressions.
+- **Full Stack Mastery:** Leveling up my JS and Backend skills.
+- **Project X:** Currently cleaning up my "messy" but working projects!
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+</div>
