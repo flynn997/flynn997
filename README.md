@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media.tenor.com/kDR77uhrK14/kirito-sword-art-online.gif" width="500" />
+<img src="https://media.tenor.com/eg63jN9R3EYAAAAj/maudy-sukaiga-maha5.gif" width="500" />
 
 # ⚡ Hi, I'm Nico Flynn ⚡
 *Aspiring Full Stack Developer | AI Enthusiast | Void's Human*
