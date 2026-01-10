@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media.tenor.com/HqEhm5f-sqUAAAAi/chika-fujiwara.gif" width="200" />
+<img src="https://media.tenor.com/HqEhm5f-sqUAAAAi/chika-fujiwara.gif" width="150" />
 
 # Hi, I'm Nico Flynn
 *Aspiring Full Stack Developer | AI Enthusiast | Void's Human*
